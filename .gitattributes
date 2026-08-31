@@ -1,0 +1,12 @@
+# Language detection rules
+# Default behavior
+# This file is used to override language statistics
+Cargo.lock linguist-generated
+*.ico binary
+public/index.html linguist-vendored
+public/* linguist-vendored
+
+package-lock.json linguist-generated   
+vendor/* linguist-vendored
+src/*.ts linguist-detectable
+*.png binary
