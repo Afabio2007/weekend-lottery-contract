@@ -1,0 +1,6 @@
+npm-debug.log*
+build/
+*.log
+.cache/
+*.tgz
+yarn-error.log*
